@@ -5,6 +5,7 @@ description: This syllabus provides details on information on required books, on
   online resource, assessment, assignments, and the schedule of course topics.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21h-402-the-making-of-a-roman-emperor-fall-2005/fa45567c99fb6128c27842a38933ed10_MIT21H_402f05_syllf04.pdf
 file_type: application/pdf
+parent_uid: 29ae36b7-e541-c282-9f50-fd516a0fec09
 resourcetype: Document
 title: Fall 2004 Syllabus
 uid: fa45567c-99fb-6128-c278-42a38933ed10
